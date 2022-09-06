@@ -1,4 +1,4 @@
-### Olá, eu sou a Maju!
+### Olá, eu sou a Juliana!
 
 
 - 🔭 Hoje estou trabalhando com front-end
