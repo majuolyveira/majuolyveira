@@ -2,6 +2,4 @@
 
 
 - 🔭 Hoje estou trabalhando com front-end
-- 🌱 Estudando Typescript
-- 😄 Pronouns: ela/dela
 
