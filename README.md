@@ -1,5 +1,5 @@
 ### Olá, eu sou a Juliana!
 
 
-- 🔭 Hoje estou trabalhando com front-end em Web e com reconhecimento de imagem usando IA
+- 🔭 Sou uma aluna de programação com atuais interesses em programação web
 
